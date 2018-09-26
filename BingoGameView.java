@@ -11,7 +11,7 @@ public class BingoGameView extends JFrame{
 	
 	private static String VERSION = "0.1";
 	private static String[] listNum = new String[25];
-	private static String DEFAULT_TITLE = "Bingo (" + VERSION + ")";
+	private static String DEFAULT_TITLE = "Bingo test(" + VERSION + ")";
 	
 	private static Integer DEFAULT_X = 200;
 	private static Integer DEFAULT_Y = 200;
